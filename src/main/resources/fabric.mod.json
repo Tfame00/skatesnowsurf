@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "skatesnowsurf",
+	"version": "${version}",
+	"name": "Skate, Snow, Surf!",
+	"description": "This mod adds some sick ways of getting around",
+	"authors": [
+		"GellyPhish"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Tfame00/skatesnowsurf"
+	},
+	"license": "MIT",
+	"icon": "assets/skatesnowsurf/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.gellyphish.skatesnowsurf.SkateSnowSurf"
+		],
+		"fabric-datagen": [
+			"net.gellyphish.skatesnowsurf.SkateSnowSurfDataGenerator"
+		],
+		"client": [
+			"net.gellyphish.skatesnowsurf.SkateSnowSurfClient"
+		]
+	},
+	"mixins": [
+		"skatesnowsurf.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
