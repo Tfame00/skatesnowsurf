@@ -1,5 +1,10 @@
 {
   "item.skatesnowsurf.wheel": "Wheel",
   "item.skatesnowsurf.fin": "Fin",
-  "item.skatesnowsurf.surfboard": "Surfboard"
+  "item.skatesnowsurf.wooden_board": "Wooden Board",
+  "item.skatesnowsurf.stone_board": "Stone Board",
+  "item.skatesnowsurf.iron_board": "Iron Board",
+  "item.skatesnowsurf.golden_board": "Golden Board",
+  "item.skatesnowsurf.diamond_board": "Diamond Board",
+  "item.skatesnowsurf.netherite_board": "Netherite Board"
 }

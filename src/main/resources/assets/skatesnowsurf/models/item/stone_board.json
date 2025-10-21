@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "skatesnowsurf:item/surfboard"
+    "layer0": "skatesnowsurf:item/stone_board"
   }
 }
