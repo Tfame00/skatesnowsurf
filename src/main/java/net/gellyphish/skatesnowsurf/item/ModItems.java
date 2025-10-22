@@ -11,6 +11,7 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item WHEEL = registerItem("wheel", new Item(new Item.Settings()));
     public static final Item FIN = registerItem("fin", new Item(new Item.Settings()));
+    public static final Item POLYURETHANE = registerItem("polyurethane", new Item(new Item.Settings()));
 
     public static final Item WOODEN_BOARD = registerItem("wooden_board", new Item(new Item.Settings()));
     public static final Item STONE_BOARD = registerItem("stone_board", new Item(new Item.Settings()));
@@ -30,6 +31,8 @@ public class ModItems {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(fabricItemGroupEntries -> {
             fabricItemGroupEntries.add(WHEEL);
             fabricItemGroupEntries.add(FIN);
+            fabricItemGroupEntries.add(POLYURETHANE);
+
             fabricItemGroupEntries.add(WOODEN_BOARD);
             fabricItemGroupEntries.add(STONE_BOARD);
             fabricItemGroupEntries.add(IRON_BOARD);
