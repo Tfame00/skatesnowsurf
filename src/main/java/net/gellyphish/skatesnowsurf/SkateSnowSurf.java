@@ -2,6 +2,7 @@ package net.gellyphish.skatesnowsurf;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.gellyphish.skatesnowsurf.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -17,5 +18,7 @@ public class SkateSnowSurf implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+
+		FuelRegistry.INSTANCE.add(ModItems.WOODEN_BOARD, 200);
 	}
 }

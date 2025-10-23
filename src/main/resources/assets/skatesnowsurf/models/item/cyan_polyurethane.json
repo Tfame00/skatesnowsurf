@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "skatesnowsurf:item/wheel"
+    "layer0": "skatesnowsurf:item/cyan_polyurethane"
   }
 }

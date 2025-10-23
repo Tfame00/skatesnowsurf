@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "pattern": [
+    " H ",
+    "HSH",
+    " H "
+  ],
+  "result": {
+    "count": 4,
+    "id": "skatesnowsurf:polyurethane"
+  }
+}

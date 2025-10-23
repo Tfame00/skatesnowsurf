@@ -1,0 +1,64 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    [
+      {
+        "item": "skatesnowsurf:polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:red_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:blue_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:brown_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:cyan_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:gray_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:green_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:light_blue_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:light_gray_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:lime_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:magenta_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:orange_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:pink_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:purple_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:white_polyurethane"
+      },
+      {
+        "item": "skatesnowsurf:yellow_polyurethane"
+      }
+    ]
+
+  ],
+  "result": {
+    "count": 1,
+    "id": "skatesnowsurf:black_polyurethane"
+  }
+}
