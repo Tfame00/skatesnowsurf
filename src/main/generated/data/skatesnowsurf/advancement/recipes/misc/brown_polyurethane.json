@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polyurethane": {
+      "conditions": {
+        "items": [
+          {
+            "items": "skatesnowsurf:polyurethane"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "skatesnowsurf:brown_polyurethane"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polyurethane"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "skatesnowsurf:brown_polyurethane"
+    ]
+  }
+}

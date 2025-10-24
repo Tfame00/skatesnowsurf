@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "polyurethanes",
+  "ingredients": [
+    {
+      "item": "skatesnowsurf:polyurethane"
+    },
+    {
+      "item": "minecraft:purple_dye"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "skatesnowsurf:purple_polyurethane"
+  }
+}
