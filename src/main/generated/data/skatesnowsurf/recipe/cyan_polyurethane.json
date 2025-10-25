@@ -4,10 +4,10 @@
   "group": "polyurethanes",
   "ingredients": [
     {
-      "item": "skatesnowsurf:polyurethane"
+      "item": "minecraft:cyan_dye"
     },
     {
-      "item": "minecraft:cyan_dye"
+      "item": "skatesnowsurf:polyurethane"
     }
   ],
   "result": {

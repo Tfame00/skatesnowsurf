@@ -1,4 +1,4 @@
-// 1.21.1	2025-10-23T23:09:43.9750647	Skate, Snow, Surf!/Model Definitions
+// 1.21.1	2025-10-24T21:05:37.4322216	Skate, Snow, Surf!/Model Definitions
 123458e5d1a2f064b1316c215a80fb142cf32e91 assets\skatesnowsurf\models\item\black_fin.json
 cb2ec6cf11623e9861278823611d4275ed3b7b84 assets\skatesnowsurf\models\item\cyan_polyurethane.json
 7407207622a6c7452dc68edf0dee4f5b63b44070 assets\skatesnowsurf\models\item\black_polyurethane.json
@@ -6,10 +6,10 @@ cb2ec6cf11623e9861278823611d4275ed3b7b84 assets\skatesnowsurf\models\item\cyan_p
 edb63eb0e6b8178ed8531b4cb6e7928ddcbe67a5 assets\skatesnowsurf\models\item\red_polyurethane.json
 d3ce75decc6ae322bf258973720e55f56fb226bd assets\skatesnowsurf\models\item\green_polyurethane.json
 7eb03ae7b8465c560551eaf85673767547aa1b26 assets\skatesnowsurf\models\item\orange_polyurethane.json
-cec8313959695aab5a51e1bf9e454aa325fba663 assets\skatesnowsurf\models\item\purple_polyurethane.json
 bca1bce30d01d719d4d06669cce8b923136b2b03 assets\skatesnowsurf\models\item\light_gray_polyurethane.json
-9c2ed472bfaa30f387bf140c58a1db143b73e4aa assets\skatesnowsurf\models\item\wooden_board.json
+cec8313959695aab5a51e1bf9e454aa325fba663 assets\skatesnowsurf\models\item\purple_polyurethane.json
 563c927cbddf491a400628cca2f58a8eb4dfa399 assets\skatesnowsurf\models\item\light_blue_polyurethane.json
+9c2ed472bfaa30f387bf140c58a1db143b73e4aa assets\skatesnowsurf\models\item\wooden_board.json
 628a69d8e80b24516c6b1e95c49c05f2cee1ecc4 assets\skatesnowsurf\models\item\gray_polyurethane.json
 1d4a5b62d688d804979a423c2c9cdb2a458298a7 assets\skatesnowsurf\models\item\golden_board.json
 f965bf03db807fc7e7b78848f38691e0e2e0b371 assets\skatesnowsurf\models\item\brown_polyurethane.json

@@ -79,8 +79,8 @@ public class ModRecipeProvider extends FabricRecipeProvider {
         //Creates recipes for dying polyurethane into colored polyurethane
         for (int i = 0; i < dyes.size(); i++) {
             ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, colored_polyurethanes.get(i), 1)
-                    .input(ModItems.POLYURETHANE)
                     .input(dyes.get(i))
+                    .input(ModItems.POLYURETHANE)
                     .criterion(hasItem(ModItems.POLYURETHANE), conditionsFromItem(ModItems.POLYURETHANE))
                     .group("polyurethanes")
                     .offerTo(recipeExporter);
